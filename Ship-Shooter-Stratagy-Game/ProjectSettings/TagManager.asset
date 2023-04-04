@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GunPoint
+  - Interactable
+  - Ship
+  - Enemy
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - Boat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 570372975
+    locked: 0
+  - name: ShipBase
+    uniqueID: 806607229
+    locked: 0
+  - name: ShipObjects
+    uniqueID: 4132131853
+    locked: 0
+  - name: Player
+    uniqueID: 1675269189
+    locked: 0
+  - name: Enemy
+    uniqueID: 3611303609
+    locked: 0
