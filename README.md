@@ -2,6 +2,9 @@
 2D Ship Shooter Game Development Project
 Game 
 
+![image](https://github.com/Ambitious-Soul/Ship-Shooting-Stratagy-Game/assets/89243011/54cf6f1d-4f0d-4749-b2c0-d51b5afb3a49)
+
+
 Introduction
 Welcome to the 2D Ship Shooter Game Development Project! This repository contains all the necessary files and code to build a fun and exciting 2D ship shooting game. The game is fully polished with various animations and user interface (UI) elements to enhance the player's experience.
 In this idle ship shooting game,
