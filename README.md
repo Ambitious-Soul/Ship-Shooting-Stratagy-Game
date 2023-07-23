@@ -1,6 +1,6 @@
 # Ship-Shooting-Stratagy-Game
 2D Ship Shooter Game Development Project
-Game Screenshot
+Game 
 
 Introduction
 Welcome to the 2D Ship Shooter Game Development Project! This repository contains all the necessary files and code to build a fun and exciting 2D ship shooting game. The game is fully polished with various animations and user interface (UI) elements to enhance the player's experience.
