@@ -1,6 +1,5 @@
 # Ship-Shooting-Stratagy-Game
-2D Ship Shooter Game Development Project
-Game 
+2D Ship Shooter Game Development Project, Upgrade System and Shooter Game Mechanics with Enemy Waves  
 
 ![image](https://github.com/Ambitious-Soul/Ship-Shooting-Stratagy-Game/assets/89243011/54cf6f1d-4f0d-4749-b2c0-d51b5afb3a49)
 
